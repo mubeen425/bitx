@@ -1,7 +1,7 @@
 {
   "name": "cryptozone",
   "version": "0.1.0",
-  "homepage": "https://cryptozone.dexignzone.com/react/demo",
+  "homepage": "",
   "private": true,
   "dependencies": {
     "@ckeditor/ckeditor5-build-classic": "^35.3.2",
